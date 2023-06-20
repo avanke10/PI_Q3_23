@@ -94,9 +94,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.google.fr"
+                 "value":"https:\/\/meet.google.com\/qgu-jwip-vxo"
                 }],
          "type":"tilelayer",
          "visible":true,
